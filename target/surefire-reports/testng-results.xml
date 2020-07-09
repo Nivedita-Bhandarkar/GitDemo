@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="7" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-09T18:34:55Z" name="Suite" finished-at="2020-07-09T18:35:01Z" duration-ms="6793">
+    <groups>
+    </groups>
+    <test started-at="2020-07-09T18:34:55Z" name="Test" finished-at="2020-07-09T18:35:01Z" duration-ms="6793">
+      <class name="Udemy.Maven.ExtentReportTest">
+        <test-method is-config="true" signature="config()[pri:0, instance:Udemy.Maven.ExtentReportTest@4dbb42b7]" started-at="2020-07-10T00:04:55Z" name="config" finished-at="2020-07-10T00:04:55Z" duration-ms="280" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- config -->
+        <test-method signature="initialdemo()[pri:0, instance:Udemy.Maven.ExtentReportTest@4dbb42b7]" started-at="2020-07-10T00:04:55Z" name="initialdemo" finished-at="2020-07-10T00:05:01Z" duration-ms="6502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialdemo -->
+      </class> <!-- Udemy.Maven.ExtentReportTest -->
+      <class name="Udemy.Maven.AppiumTest">
+        <test-method signature="IOSAPPS()[pri:0, instance:Udemy.Maven.AppiumTest@36916eb0]" started-at="2020-07-10T00:04:55Z" name="IOSAPPS" finished-at="2020-07-10T00:04:55Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSAPPS -->
+        <test-method signature="NativeAppAndroid()[pri:0, instance:Udemy.Maven.AppiumTest@36916eb0]" started-at="2020-07-10T00:04:55Z" name="NativeAppAndroid" finished-at="2020-07-10T00:04:55Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- Udemy.Maven.AppiumTest -->
+      <class name="Udemy.Maven.SeleniumTest">
+        <test-method signature="elementsUI()[pri:0, instance:Udemy.Maven.SeleniumTest@550dbc7a]" started-at="2020-07-10T00:04:55Z" name="elementsUI" finished-at="2020-07-10T00:04:55Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- Udemy.Maven.SeleniumTest -->
+      <class name="Udemy.Maven.RestAssuredTest">
+        <test-method signature="postJira()[pri:0, instance:Udemy.Maven.RestAssuredTest@21282ed8]" started-at="2020-07-10T00:04:55Z" name="postJira" finished-at="2020-07-10T00:04:55Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+        <test-method signature="deleteTwitter()[pri:0, instance:Udemy.Maven.RestAssuredTest@21282ed8]" started-at="2020-07-10T00:04:55Z" name="deleteTwitter" finished-at="2020-07-10T00:04:55Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+      </class> <!-- Udemy.Maven.RestAssuredTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

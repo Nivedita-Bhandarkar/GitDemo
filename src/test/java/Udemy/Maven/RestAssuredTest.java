@@ -9,9 +9,12 @@ public class RestAssuredTest {
 System.out.println("postJira");
 System.out.println("postJira1");
 System.out.println("postJira2");
+<<<<<<< HEAD
 System.out.println("postJira3");
 System.out.println("postJira4");
 System.out.println("postJira5");
+=======
+>>>>>>> 3fda0fcc5afd352c6b65f0a51d00d9b859eaaa7c
 	}
 
 	@Test

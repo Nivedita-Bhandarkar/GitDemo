@@ -20,5 +20,7 @@ System.out.println("postJira5");
 	@Test
 	public void deleteTwitter() {
 System.out.println("deleteTwitter");
+System.out.println("deleteTwitter");
+System.out.println("deleteTwitter");
 	}
 }

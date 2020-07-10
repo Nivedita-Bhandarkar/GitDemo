@@ -7,10 +7,14 @@ public class AppiumTest {
 	
 	public void NativeAppAndroid() {
 System.out.println("NativeAppAndroid");
+System.out.println("NativeAppAndroid");
+System.out.println("NativeAppAndroid");
 	}
 
 	@Test
 	public void IOSAPPS() {
+System.out.println("IOSAPPS");
+System.out.println("IOSAPPS");
 System.out.println("IOSAPPS");
 	}
 }
